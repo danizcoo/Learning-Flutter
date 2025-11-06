@@ -1,2 +1,2 @@
 # Learning-Flutter
-Anotações do framework Flutter e lingaugem Dart do meu estágio atual
+Anotações do framework Flutter e linguagem Dart do meu estágio atual
